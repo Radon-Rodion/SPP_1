@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SortLibrary\SortLibrary.csproj" />
+    <ProjectReference Include="..\SPP1_GUI\SPP1_GUI.csproj" />
+  </ItemGroup>
+
+</Project>

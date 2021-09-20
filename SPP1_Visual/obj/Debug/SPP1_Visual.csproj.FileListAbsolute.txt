@@ -1,0 +1,10 @@
+F:\Coding\C#\SPP_1\SPP1_Visual\bin\Debug\SPP1_Visual.exe.config
+F:\Coding\C#\SPP_1\SPP1_Visual\bin\Debug\SPP1_Visual.exe
+F:\Coding\C#\SPP_1\SPP1_Visual\bin\Debug\SPP1_Visual.pdb
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.Form1.resources
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.Properties.Resources.resources
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.exe
+F:\Coding\C#\SPP_1\SPP1_Visual\obj\Debug\SPP1_Visual.pdb

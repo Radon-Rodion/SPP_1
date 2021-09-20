@@ -1,0 +1,10 @@
+F:\Coding\C#\SPP_1\SortLibrary\bin\Debug\netcoreapp3.1\SortLibrary.deps.json
+F:\Coding\C#\SPP_1\SortLibrary\bin\Debug\netcoreapp3.1\SortLibrary.dll
+F:\Coding\C#\SPP_1\SortLibrary\bin\Debug\netcoreapp3.1\SortLibrary.pdb
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.AssemblyInfoInputs.cache
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.AssemblyInfo.cs
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.dll
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.pdb
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.csproj.AssemblyReference.cache
