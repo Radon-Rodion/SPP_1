@@ -12,6 +12,7 @@ namespace SPP_1
 {
     class Program
     {
+        [STAThread]
         static void Main(string[] args)
         {
             if (args.Length != 2)
@@ -22,7 +23,7 @@ namespace SPP_1
                 Application.Run(new Form1());
                 //throw new Exception("NArgs must be 2: input and output files' addresses!");
             }
-            Class1.ProcessFile(args[0], args[1]);
+            else Class1.ProcessFile(args[0], args[1]);
         }
     }
 }
