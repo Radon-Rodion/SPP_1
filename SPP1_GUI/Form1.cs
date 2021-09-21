@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using SortLibrary;
+using System.IO;
 
 
 namespace SPP1_GUI
@@ -56,7 +57,17 @@ namespace SPP1_GUI
 
         private void BtnSort_Click(object sender, EventArgs e)
         {
-            Class1.ProcessFile(inputFileAddr, outputFileAddr);
+            try
+            {
+                Class1.ProcessFile(inputFileAddr, outputFileAddr);
+            } catch (ArgumentNullException)
+            {
+                MessageBox.Show("Enter filename!","Error",MessageBoxButtons.OK, MessageBoxIcon.Error);
+            } catch (FileNotFoundException)
+            {
+                MessageBox.Show("File not found!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
         }
     }
 }

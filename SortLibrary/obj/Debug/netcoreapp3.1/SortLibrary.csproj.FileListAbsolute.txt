@@ -7,3 +7,4 @@ F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.AssemblyInfo.
 F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.csproj.CoreCompileInputs.cache
 F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.dll
 F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.pdb
+F:\Coding\C#\SPP_1\SortLibrary\obj\Debug\netcoreapp3.1\SortLibrary.csproj.AssemblyReference.cache
